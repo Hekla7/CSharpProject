@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\RigaCodingSchool\Diena1_uzdevumi\bin\Debug\Diena1_uzdevumi.exe.config
+C:\Users\Asus\source\repos\RigaCodingSchool\Diena1_uzdevumi\bin\Debug\Diena1_uzdevumi.exe
+C:\Users\Asus\source\repos\RigaCodingSchool\Diena1_uzdevumi\bin\Debug\Diena1_uzdevumi.pdb
+C:\Users\Asus\source\repos\RigaCodingSchool\Diena1_uzdevumi\obj\Debug\Diena1_uzdevumi.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\RigaCodingSchool\Diena1_uzdevumi\obj\Debug\Diena1_uzdevumi.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\RigaCodingSchool\Diena1_uzdevumi\obj\Debug\Diena1_uzdevumi.exe
+C:\Users\Asus\source\repos\RigaCodingSchool\Diena1_uzdevumi\obj\Debug\Diena1_uzdevumi.pdb

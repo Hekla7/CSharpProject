@@ -1,0 +1,12 @@
+﻿@using Web1.Models
+@model ContactModel
+
+<b>Talrunis: </b> <span>@Model.Phonenumber</span>
+<br />
+<b>E-mail: </b> <span>@Model.Email</span>
+<br />
+<!---komentars-->
+<b>Adrese: </b> <span>
+    @(Model.Location.Country) ,
+    @(Model.Location.City)
+    </span>

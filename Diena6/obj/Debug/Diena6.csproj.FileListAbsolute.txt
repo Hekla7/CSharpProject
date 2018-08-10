@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\RigaCodingSchool\Diena6\bin\Debug\Diena6.exe.config
+C:\Users\Asus\source\repos\RigaCodingSchool\Diena6\bin\Debug\Diena6.exe
+C:\Users\Asus\source\repos\RigaCodingSchool\Diena6\bin\Debug\Diena6.pdb
+C:\Users\Asus\source\repos\RigaCodingSchool\Diena6\obj\Debug\Diena6.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\RigaCodingSchool\Diena6\obj\Debug\Diena6.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\RigaCodingSchool\Diena6\obj\Debug\Diena6.exe
+C:\Users\Asus\source\repos\RigaCodingSchool\Diena6\obj\Debug\Diena6.pdb
+C:\Users\Violeta\Documents\RigaCodingSchool\Diena6\obj\Debug\Diena6.csprojAssemblyReference.cache
+C:\Users\Violeta\Documents\RigaCodingSchool\Diena6\obj\Debug\Diena6.csproj.CoreCompileInputs.cache
+C:\Users\Violeta\Documents\RigaCodingSchool\Diena6\obj\Debug\Diena6.exe
+C:\Users\Violeta\Documents\RigaCodingSchool\Diena6\obj\Debug\Diena6.pdb
+C:\Users\Violeta\Documents\RigaCodingSchool\Diena6\bin\Debug\Diena6.exe.config
+C:\Users\Violeta\Documents\RigaCodingSchool\Diena6\bin\Debug\Diena6.exe
+C:\Users\Violeta\Documents\RigaCodingSchool\Diena6\bin\Debug\Diena6.pdb

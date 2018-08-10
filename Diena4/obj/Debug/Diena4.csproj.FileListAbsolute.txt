@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\RigaCodingSchool\Diena4\bin\Debug\Diena4.exe.config
+C:\Users\Asus\source\repos\RigaCodingSchool\Diena4\bin\Debug\Diena4.exe
+C:\Users\Asus\source\repos\RigaCodingSchool\Diena4\bin\Debug\Diena4.pdb
+C:\Users\Asus\source\repos\RigaCodingSchool\Diena4\obj\Debug\Diena4.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\RigaCodingSchool\Diena4\obj\Debug\Diena4.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\RigaCodingSchool\Diena4\obj\Debug\Diena4.exe
+C:\Users\Asus\source\repos\RigaCodingSchool\Diena4\obj\Debug\Diena4.pdb
